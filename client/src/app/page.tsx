@@ -3,8 +3,8 @@
 import { useState } from "react";
 
 export default function Home() {
-  const [url, setUrl] = useState();
-  const [format, setFormat] = useState();
+  const [url, setUrl] = useState<string>('');
+  const [format, setFormat] = useState<string>('');
   const [isDownloading, setIsDownloading] = useState(false);
   const [error, setError] = useState('');
 
