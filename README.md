@@ -1,6 +1,6 @@
 # YouTube Downloader
 
-Web app untuk download video & MP3 dari YouTube, dapat dijalankan secara local dengan clone repository ini.
+Web app for download Video & Mp3 from YouTube, can run local on your device with clone this repo.
 
 ## Tech Stack
 - **Frontend**: Next.js 16 + React 19 + Tailwind CSS
@@ -12,14 +12,12 @@ Web app untuk download video & MP3 dari YouTube, dapat dijalankan secara local d
 # Terminal 1: Backend
 cd server
 npm install
-node index.js
 
 # Terminal 2: Frontend
 cd client
 npm install
-npm run dev
 ```
 
-## Local Development 2 (Faster)
+## Running Local
 ```bash
-npm run dev
+npm run dev (On the root, it starts two services: one running on the server and one running on the client.)
