@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dc9u82gzj/image/upload/v1784771295/yt-udownloader_am0umf.webp" alt="Banner" width="100%">
+</p>
+
 # YouTube UDownloader
 
 Web app for download Video & Mp3 from YouTube, can run local on your device with clone this repo.
