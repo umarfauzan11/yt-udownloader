@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Youtube Downloader",
+  title: "Youtube UDownloader",
   description: "Download video & MP3 dengan mudah",
 };
 

@@ -57,7 +57,7 @@ return (
       <div className="w-full max-w-md">
         <div className="bg-white dark:bg-zinc-800 rounded-2xl shadow-xl p-8">
           <h1 className="text-2xl font-bold text-center mb-6 text-zinc-900 dark:text-zinc-100">
-            YouTube Downloader
+            YouTube UDownloader
           </h1>
 
           <form onSubmit={handleSubmit} className="space-y-4">
@@ -115,7 +115,7 @@ return (
           </form>
 
           <p className="mt-6 text-xs text-zinc-500 dark:text-zinc-400 text-center">
-            ⚠️ Hanya untuk penggunaan pribadi. Jangan gunakan untuk keperluan komersial.
+            Hanya untuk penggunaan pribadi. Jangan gunakan untuk keperluan komersial.
           </p>
         </div>
       </div>

@@ -1,7 +1,7 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "Youtube Downloader",
+  "description": "Youtube UDownloader",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
