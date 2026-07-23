@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://res.cloudinary.com/dc9u82gzj/image/upload/v1784771295/yt-udownloader_am0umf.webp" alt="Banner" width="100%">
+  <img src="https://res.cloudinary.com/dc9u82gzj/image/upload/v1784771295/yt-udownloader_am0umf.webp" alt="Banner" width="50%">
 </p>
 
 # YouTube UDownloader
